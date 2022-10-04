@@ -1,0 +1,25 @@
+.test1 {
+   float:left;
+}
+.test2 {
+    float:right;
+}
+.wraper {
+    background-color: darkred;
+}
+.clear {
+    clear: both;
+}
+.test {
+    float:left;
+    width:810px;
+}
+.img {
+    float:left;
+    width: 35%;
+    margin-right: 20px;
+}
+.text-wraper {
+    padding:20px;
+    
+}
